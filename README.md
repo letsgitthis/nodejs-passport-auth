@@ -36,3 +36,9 @@
 [Esterling Accime](https://www.youtube.com/watch?v=vLp0XluCT90&t=155s)
 
 [Traversy Media](https://www.youtube.com/watch?v=6FOq4cUdH8k)
+
+[Bits and Pieces Part1](https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e3669)
+
+[Bits and Pieces Part2](https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-2-frontend-6eac4e38ee82)
+
+[Bits and Pieces Part3](https://blog.bitsrc.io/build-a-login-auth-app-with-the-mern-stack-part-3-react-components-88190f8db718)
