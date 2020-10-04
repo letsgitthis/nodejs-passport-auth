@@ -33,4 +33,6 @@
 ### jbentley1011@gmail
 
 ## Resources
+[Esterling Accime](https://www.youtube.com/watch?v=vLp0XluCT90&t=155s)
+
 [Traversy Media](https://www.youtube.com/watch?v=6FOq4cUdH8k)
